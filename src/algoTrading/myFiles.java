@@ -192,7 +192,7 @@ public class myFiles
 	            fileWriter.append(Paramenters.NEW_LINE_SEPARATOR);
 	            fileWriter.append("@DATA");
 	            
-	            // for all rows
+	            // for all rows hi
 	        	for (int index = 0;index < main.arrCurrencys.get(0).size() - valuesCount;index++)
 				{
 	        		fileWriter.append(Paramenters.NEW_LINE_SEPARATOR);
