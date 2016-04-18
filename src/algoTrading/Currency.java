@@ -7,7 +7,6 @@ public class Currency
 	private double value=-1;
 	private double command = Paramenters.waitAt;
 
-
 	public void Currency(String s_type,String s_date, double d_value, double d_command )
 	{
 		type = s_type;
